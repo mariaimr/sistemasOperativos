@@ -1,0 +1,5 @@
+1. en el ejemplo de cdMusic se coloca despues de declarar la estructura y antes de terminarla cd1 y cd2, por qué ocurre eso?
+
+2. como avanzar por una estructura por medio del apuntador?
+
+3. por qué en la estructura bancaria el nombre es un apuntador que no se le ha asignado nada y obviamente al ejecutarse presenta error de segmentación?
